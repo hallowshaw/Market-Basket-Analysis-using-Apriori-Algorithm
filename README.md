@@ -92,7 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Seaborn Library](https://seaborn.pydata.org/) for data visualization.
 - [WordCloud Library](https://github.com/amueller/word_cloud) for creating WordCloud visualizations.
 
-
-
-Feel free to customize this README to better fit the specifics of your project and provide more details if necessary. Additionally, make sure to replace the placeholder image paths with the actual paths or URLs of your generated visualizations.
-
