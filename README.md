@@ -86,7 +86,6 @@ Adjust the parameters based on your dataset and analysis requirements.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-## Acknowledgments
 
 - [Apyori Library](https://github.com/ymoch/apyori) for providing a convenient implementation of the Apriori Algorithm.
 - [Seaborn Library](https://seaborn.pydata.org/) for data visualization.
