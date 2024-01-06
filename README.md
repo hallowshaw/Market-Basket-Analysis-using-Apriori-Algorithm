@@ -28,7 +28,7 @@ The dataset (market_data.csv) should be in the project directory. Ensure it has 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/market-basket-analysis.git
+git clone https://github.com/hallowshaw/market-basket-analysis.git
 ```
 
 2. Navigate to the project directory:
